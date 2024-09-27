@@ -1,7 +1,7 @@
 nginx
 #支持私库
 mysql
-centos7
+centos
 nacos
 minio
 geoserver
