@@ -2,7 +2,7 @@ nginx
 #支持私库
 mysql
 centos
-nginx-proxy-manager
+jc21/nginx-proxy-manager:latest
 redis
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
