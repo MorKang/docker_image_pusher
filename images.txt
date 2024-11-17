@@ -7,5 +7,6 @@ redis
 minio/minio
 gdy666/lucky
 portainer/portainer-ce
+bitwarden/server
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
