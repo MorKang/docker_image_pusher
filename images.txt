@@ -8,5 +8,6 @@ minio/minio
 gdy666/lucky
 portainer/portainer-ce
 vaultwarden/server
+gitea/gitea
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
