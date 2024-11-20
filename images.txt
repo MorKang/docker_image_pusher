@@ -8,6 +8,7 @@
 # gdy666/lucky
 # portainer/portainer-ce
 # vaultwarden/server
-gitea/gitea
+# gitea/gitea
+mariadb
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
