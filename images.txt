@@ -9,6 +9,6 @@
 # portainer/portainer-ce
 # vaultwarden/server
 # gitea/gitea
-mariadb
+neosmemo/memos
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
