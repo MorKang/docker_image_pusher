@@ -9,6 +9,4 @@
 # portainer/portainer-ce
 # vaultwarden/server
 # gitea/gitea
-neosmemo/memos
-#支持指定架构
---platform=linux/arm64
+memos
