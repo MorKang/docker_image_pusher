@@ -9,6 +9,11 @@
 # portainer/portainer-ce
 # vaultwarden/server
 # gitea/gitea
-memos
+mysql:8.4.2
+maxkeytop/maxkey-frontend:latest
+maxkeytop/maxkey:latest
+maxkeytop/maxkey-mgt:latest
+maxkeytop/maxkey-mgt-frontend:latest
+nginx:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
