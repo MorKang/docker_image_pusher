@@ -1,5 +1,3 @@
-# nginx
-# 支持私库
 # mysql
 # centos
 # jc21/nginx-proxy-manager:latest
@@ -9,11 +7,12 @@
 # portainer/portainer-ce
 # vaultwarden/server
 # gitea/gitea
-mysql:8.4.2
-maxkeytop/maxkey-frontend:latest
-maxkeytop/maxkey:latest
-maxkeytop/maxkey-mgt:latest
-maxkeytop/maxkey-mgt-frontend:latest
-nginx:latest
+# mysql:8.4.2
+# maxkeytop/maxkey-frontend:latest
+# maxkeytop/maxkey:latest
+# maxkeytop/maxkey-mgt:latest
+# maxkeytop/maxkey-mgt-frontend:latest
+# nginx:latest
+jpomdocker/jpom
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
