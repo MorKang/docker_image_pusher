@@ -8,17 +8,7 @@
 # vaultwarden/server
 # gitea/gitea
 # mysql:8.4.2
-# maxkeytop/maxkey-frontend:latest
-# maxkeytop/maxkey:latest
-# maxkeytop/maxkey-mgt:latest
-# maxkeytop/maxkey-mgt-frontend:latest
 # nginx:latest
-# jpomdocker/jpom
-redis:7.0-bullseye
-jumpserver/web:v4.4.1-ce
-jumpserver/chen:v4.4.1-ce
-jumpserver/lion:v4.4.1-ce
-jumpserver/koko:v4.4.1-ce
-jumpserver/core:v4.4.1-ce
+nacos/nacos-server
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
