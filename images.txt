@@ -9,6 +9,7 @@
 # gitea/gitea
 # mysql:8.4.2
 # nginx:latest
-nacos/nacos-server
+# nacos/nacos-server
+ghcr.io/eugeny/tabby-web:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
