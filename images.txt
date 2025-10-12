@@ -1,16 +1,13 @@
-# mysql
-# centos
-# jc21/nginx-proxy-manager:latest
-# redis
-# minio/minio
-# gdy666/lucky
-# portainer/portainer-ce
-# vaultwarden/server
-# gitea/gitea
-# mysql:8.4.2
-# nginx:latest
-# stilleshan/frps
-lobehub/lobe-chat
-# postgres:16.3-bullseye
+alpine
+pgvector/pgvector:pg17
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+casbin/casdoor:v2.78.0
+searxng/searxng
+lobehub/lobe-chat-database
+grafana/grafana:12.3.0-18392635519
+grafana/tempo:latest
+prom/prometheus
+otel/opentelemetry-collector
+ghcr.io/grafana/xk6-client-tracing:v0.0.7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
