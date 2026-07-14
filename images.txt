@@ -1,4 +1,4 @@
-confluentinc/cp-zookeeper:7.7.7
-confluentinc/cp-kafka:7.7.7
+valkey/valkey:9-alpine
+searxng/searxng:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
